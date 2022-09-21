@@ -20,3 +20,6 @@ wireless-ssid SSID_Name
 wireless-key XXXXX
 dns-nameservers 8.8.8.8 192.168.1.1
 ```
+
+## Scripts & Instructions
+https://osf.io/85urz 
